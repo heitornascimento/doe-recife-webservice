@@ -42,6 +42,6 @@ bower.json
 .byebug_histor
 
 #Mac OS
-.DS_Storey
+.DS_Store
 
 doe-ws/tmp/cache
