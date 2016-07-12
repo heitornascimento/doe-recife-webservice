@@ -39,4 +39,9 @@ bower.json
 .powenv
 
 # Ignore Byebug command history file.
-.byebug_history
+.byebug_histor
+
+#Mac OS
+.DS_Storey
+
+doe-ws/tmp/cache
